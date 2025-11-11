@@ -1,0 +1,21 @@
+{
+  "name": "Ayaz Token",
+  "symbol": "A",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "Ayaz Token is a compliant ERC-20 token with built-in tax, liquidity, and compliance mechanisms designed for transparency and regulatory alignment in Italy.",
+  "website": "https://ayaztoken.com",
+  "explorer": "https://etherscan.io/token/0x2aB7472d5c6Ea85478174a992E8d3E9D58533310",
+  "status": "active",
+  "id": "0x2aB7472d5c6Ea85478174a992E8d3E9D58533310",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/AyazToken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AyazToken"
+    }
+  ]
+}
